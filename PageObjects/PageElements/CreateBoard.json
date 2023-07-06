@@ -1,0 +1,8 @@
+{
+
+    "CreateBoardPageLocators": {
+
+        "NewBoardBtn_text": ".mh-new-board-icon-grid",
+        "CreateCustomTemplate_text" : ".create-new-template-box"
+    }
+}

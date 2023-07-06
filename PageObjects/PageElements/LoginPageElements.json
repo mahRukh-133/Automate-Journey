@@ -1,0 +1,9 @@
+{
+
+    "loginPageLocators": {
+
+        "email_text": "[placeholder='Email']",
+        "password_text" : "[placeholder='Password']",
+        "login_button":".login-signup-button"
+    }
+}
