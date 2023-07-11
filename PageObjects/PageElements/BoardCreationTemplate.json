@@ -1,0 +1,12 @@
+{
+
+    "CreateBoardTemplatePageLocators": {
+
+        "NewBoardBtn_text": ".mh-new-board-icon-grid",
+         "SelectTemplate":".button-primary",
+         "AddTitle_Text": ".text-field",
+        "CreateBoardBTN":".button-export",
+        "ConfirmationMsg": ".toast-message"
+    
+    }
+}

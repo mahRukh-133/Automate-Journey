@@ -3,6 +3,11 @@
     "CreateBoardPageLocators": {
 
         "NewBoardBtn_text": ".mh-new-board-icon-grid",
-        "CreateCustomTemplate_text" : ".create-new-template-box"
+        "CreateCustomTemplate_text" : ".create-new-template-box",
+        "CreateBoardHeading_text": ".cf-h1",
+        "BoardTitle_text": "[type='text']",
+        "BoardDescription": ".cf-textarea",
+        "CreateBoardBTN":".create-board-btn"
+    
     }
 }
